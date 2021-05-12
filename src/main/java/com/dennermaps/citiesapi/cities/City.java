@@ -9,7 +9,6 @@ import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;
 import org.springframework.data.geo.Point;
 
-
 @Entity
 @Table(name = "cidade")
 @TypeDefs(value = {

@@ -1,4 +1,4 @@
-package com.dennermaps.citiesapi.staties;
+package com.dennermaps.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

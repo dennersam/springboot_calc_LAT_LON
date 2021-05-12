@@ -1,8 +1,7 @@
-package com.dennermaps.citiesapi.staties;
+package com.dennermaps.citiesapi.states;
 
 import com.dennermaps.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
-import net.bytebuddy.implementation.bind.annotation.BindingPriority;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;
